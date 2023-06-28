@@ -73,6 +73,7 @@
 
 16. Set the clock
 - clock set 13:30:00 5 March 2023
+
 ## Configure Switch
 - en [enable privileged EXEC mode]
 - config terminal [enter configuration mode]
